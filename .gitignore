@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # Other
-sorted_data_acl
+NLP/sentiment_analysis/
 .DS_Store
