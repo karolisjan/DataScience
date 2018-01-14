@@ -103,3 +103,5 @@ ENV/
 # Other
 NLP/sentiment_analysis/
 .DS_Store
+computer_vision/content_based_image_retrieval/holiday_dataset
+computer_vision/content_based_image_retrieval/flowers_dataset
