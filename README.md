@@ -1,2 +1,3 @@
-# DataScience
-Data science and machine learning projects and tutorials.
+# Data Science
+
+Collection of data science examples, snippets, and implementations
